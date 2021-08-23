@@ -2,5 +2,5 @@
 start and stop apache & mariadb service, script file.
 
 # run
-sudo chmod +x "name-file"
-sudo ./"name-file"
+<p> sudo chmod +x "name-file"
+<p> sudo ./"name-file"
