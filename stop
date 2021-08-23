@@ -1,12 +1,5 @@
 #!/usr/bin/env bash
 
-# Simple stand-alone wrapper for rofi-power-menu.
-#
-# This script takes the same CLI arguments as rofi-power-menu.
-#
-# rofi-script-to-dmenu needs to be installed
-
-# Use local rofi-power-menu if present. This makes developing easier.
 command systemctl stop httpd
 command systemctl stop mariadb
 echo "stop services"
